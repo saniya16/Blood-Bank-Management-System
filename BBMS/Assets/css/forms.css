@@ -1,0 +1,56 @@
+h1 {
+	padding-left:15%;
+	 
+	font-family: 'Kurale', serif;
+}
+
+h2{
+	padding-left: 15%;
+	font-family: 'Kurale', serif !important;
+
+
+}
+
+h4{
+	font-family: 'Kurale', serif;
+
+}
+body{
+	font-family: 'Raleway', sans-serif !important;
+	background: #ddd6f3;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #faaca8, #ddd6f3);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #faaca8, #ddd6f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	padding-left:25%;
+} 
+
+input{
+
+	box-shadow: 5px 5px 5px 4px rgba(0.75,0,0,0.2);
+}
+
+input[type='checkbox']{
+	box-shadow: none;
+}
+
+input[type='radio']{
+	box-shadow: none;
+}
+
+.custom-select{
+	box-shadow: 5px 5px 5px 4px rgba(0.75,0,0,0.2);
+
+}
+
+.form-check-label{
+	font-weight:700;
+}
+
+.invalid-feedback{
+	font-weight: 700;
+}
+
+
+.form-control{
+	box-shadow: 5px 5px 5px 4px rgba(0.75,0,0,0.2);
+
+}
